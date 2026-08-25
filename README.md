@@ -1,7 +1,8 @@
-# O Bot Privacy Policy
+# O Bot legal pages
 
-Public privacy policy for the O Bot Discord application.
+Public documents for the O Bot Discord application.
 
-**Live URL:** https://alaaeldienabobaker.github.io/O_bot_One/
+- **Privacy Policy:** https://alaaeldienabobaker.github.io/O_bot_One/
+- **Terms of Service:** https://alaaeldienabobaker.github.io/O_bot_One/terms.html
 
-Use this URL in the Discord Developer Portal and in the privileged intents form.
+Use these URLs in the Discord Developer Portal and in the privileged intents form.
